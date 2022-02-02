@@ -1,4 +1,4 @@
-<h1>Calculadora da Matérias de Exatas🤓</h1>
+<h1>Calculadora das Matérias de Exatas🤓</h1>
 
 > Status: Em desenvolvimento ⚠
 
