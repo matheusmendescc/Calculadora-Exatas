@@ -2,7 +2,7 @@
 
 > Status: Em desenvolvimento ⚠
 
-<h3><i>Esse meu projeto é uma calculadora que pegará todos os conteúdos das disciplinas de ciências exatas e ciências da Natureza. Planejado por mim e totalmente desenvolvido para afins didáticos de estudo pessoal.</i></h3>
+<h3><i>Esse meu projeto é uma calculadora que pegará todos os conteúdos das disciplinas de ciências exatas e ciências da Natureza. Planejado por mim e totalmente desenvolvido para fins didáticos de estudo pessoal.</i></h3>
 
 - Para prática🤓
 <h4>Disciplinas disponíveis no projeto:</h4>
